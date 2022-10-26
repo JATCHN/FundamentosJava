@@ -1,6 +1,6 @@
 package P01_HolaMundo;
 public class HolaMundo {
     public static void main(String args[]){
-        System.out.println("Hola mundooooo");
+        System.out.println("Hola Mundo desde Java");
     }
 }
